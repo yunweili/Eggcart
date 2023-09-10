@@ -16,13 +16,17 @@ https://play.unity.com/mg/karting/eggcart-t
 
 For more information, make sure to check out the following resources down below: 
 
-Guide: All the information regarding our game and gives a complete overview and introduction of our features. 
+Guide: All the information regarding our game and gives a complete overview and introduction of our features. It will show all the different features, tips and tricks of the egg as well as different strategies that would be important for winning. 
 
-Business Plan: Gives an overview of our future plans for expansion. 
+You can check out the Guide at the following link: https://docs.google.com/document/d/e/2PACX-1vQuqfGs3vicuc0z0qjvPnlSO1oSOGguZSOek5_ieRUJ8jnC6JAZIYfSwpqAhJmKxlx1X7OheIwWfJSw/pub
 
-Instagram: 
+Business Plan: Gives an overview of our future plans for expansion. The business plan will outline all of our future plans for our business as well as how we are going to be able to market and attract more players in the future and new features we are planning to add to our game. 
 
-Linktree: 
+You can check out the Business Plan at the following link: https://docs.google.com/document/d/e/2PACX-1vQrgLU_-MVLKscku3jt02xcankcbPzV1OtlLVNyeJWx3ilu8N3unPqtyZT38ntkob0JHG5iqnrXviMa/pub
 
-Twitter: 
+Instagram: https://www.instagram.com/eggcartgame/
+
+Linktree: https://linktr.ee/eggcart
+
+Twitter: https://twitter.com/eggcartgame
 
