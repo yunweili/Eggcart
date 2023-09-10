@@ -4,7 +4,7 @@ Eggcart is a simple fun minigame that involves you the player driving a kart as 
 
 There are many features in this game, including: 
 
-"*"Best Time Tracker - Try and beat your best time. 
+*Best Time Tracker - Try and beat your best time. 
 
 XP System (Coming Soon) - A system where you are able to gain XP by gaining more and more wins and races. 
 
