@@ -8,7 +8,10 @@ There are many features in this game, including:
 
 - Best Time Tracker - Try and beat your best time. The best time will be recorded by the game, and you can have unlimited tries at beating your record time. 
 - XP System (Coming Soon) - A system where you can gain XP by gaining more and more wins and races. You will be able to also level up and compete for exclusive rewards and prizes. 
-- Leaderboard System - A system where individuals can see the fastest times. The leaderboard is going to be published on our website. To submit a site, make sure to fill out the form on our website.
+- Leaderboard System - A system where individuals can see the fastest times. The leaderboard is going to be published on our website. To submit a time, make sure to fill out the form on our website.
+- Custom Maps: Our game will now feature 3 custom maps that consist of a variety of settings, obstacles, and features. 
+- AI Training: Want to train by myself? Try training with our AI bots to build up your skill and experience. 
+- Hosting: Want to play according to your style? No problem. Users are now able to host your own custom races.
 
 ## <a name="_56kfpodyq5td"></a>Download The Game
 
