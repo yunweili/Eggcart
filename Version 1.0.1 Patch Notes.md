@@ -1,9 +1,3 @@
-﻿1. Training Mode Enhancements
-
-1. AI Bot Customization
-- Customed AI bots to help user's train their mechanics, game sense, etc.
-- Enhanced AI behaviors for more realistic racing scenarios.
-
 1. Race Hosting Features
 
 1. Customizable Race Settings
